@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exercise_1B</string>
+    <string name="tNama">Nama</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Sign-In</string>
+    <string name="mRegist">Register Now</string>
+    <string name="lregist">Register</string>
+    <string name="enama">Masukkan Nama</string>
+    <string name="eemail">Masukkan Email</string>
+    <string name="epass">Masukkan Password</string>
+    <string name="erepass">Masukkan Ulang Password</string>
+    <string name="SelamatDatang">Welcome</string>
+    <string name="TASK">TASK LIST</string>
+    <string name="iTask">Nama Task</string>
+    <string name="JenisTask">Jenis Task</string>
+    <string name="WaktuTask">Waktu Task</string>
+    <string name="inamatask">Masukkan Nama Task</string>
+    <string name="ijenistask">Masukkan Jenis Task</string>
+    <string name="iwaktutask">Masukkan Waktu Task</string>
+    <string name="tsubmit">Submit</string>
+</resources>
